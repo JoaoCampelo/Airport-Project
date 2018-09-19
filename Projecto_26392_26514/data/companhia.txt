@@ -1,0 +1,5 @@
+1;TAP Air Portugal;Portugal;
+2;Lufthansa;Alemanha;
+3;Qatar Airways;Qatar;
+4;Qantas;Australia;
+5;Thai Airways;Thailandia;
